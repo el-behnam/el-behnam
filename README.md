@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Behnam (@el_behnam).
 - 👀 I’m interested in computers, genes, and people!
-- 🌱 I’m currently learning bioinformatics (biology and mathematical tools).
+- 🌱 I’m currently working as a bioinformatician in [MalekiLab](https://www.schulich.uwo.ca/malekilab/index.html).
 - 💞️ I’m looking to collaborate on cancer treatment and deep learning methods.
 - 📫 If you had anything to discuss with me, just send me an email with topic containing "github" (bjabbar@uwo.ca).
 
